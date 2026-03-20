@@ -1,13 +1,61 @@
 {
-  "generated_at": "2026-03-14T00:00:00+00:00",
+  "generated_at": "2026-03-20T08:38:27.557537+00:00",
   "source": "https://dennikn.sk/rss",
-  "count": 1,
+  "count": 9,
   "articles": [
     {
-      "title": "Vývoj bojov (1478. deň): Prečo je na Ukrajine pred ruskou jarnou ofenzívou viac optimizmu ako pred rokom",
-      "url": "https://dennikn.sk/5197023/vyvoj-bojov-1478-den-preco-je-na-ukrajine-pred-ruskou-jarnou-ofenzivou-viac-optimizmu-ako-pred-rokom/",
-      "mp3_url": "https://a-static.projektn.sk/2026/03/exportVB13032026.mp3",
-      "published": "2026-03-13T00:00:00+00:00"
+      "title": "Národná rada Slovenskej republiky je v terminálnom stave",
+      "url": "https://dennikn.sk/5209696/narodna-rada-slovenskej-republiky-je-v-terminalnom-stave/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/neural-audio-elevenlabs-5209696-1.mp3",
+      "published": null
+    },
+    {
+      "title": "Nechcem, aby sa zabudlo na cintoríny na ihriskách ani na lúčenie 8-ročnej Evy s jej hračkami, hovorí fotografka Syrovatka",
+      "url": "https://dennikn.sk/5205535/nechcem-aby-sa-zabudlo-na-cintoriny-na-ihriskach-ani-na-lucenie-8-rocnej-evy-s-jej-hrackami-hovori-fotografka-syrovatka/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/neural-audio-elevenlabs-5205535-1.mp3",
+      "published": null
+    },
+    {
+      "title": "Mozog sa potrebuje učiť. Nové zručnosti a zážitky podľa vedcov pomáhajú predchádzať depresii (Terapia slovom+)",
+      "url": "https://dennikn.sk/5209236/mozog-sa-potrebuje-ucit-nove-zrucnosti-a-zazitky-podla-vedcov-pomahaju-predchadzat-depresii-terapia-slovom/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/neural-audio-elevenlabs-5209236-1.mp3",
+      "published": null
+    },
+    {
+      "title": "Kaštiele skupuje firma zo schátranej chaty. Stopy vedú k Pellegriniho kamarátovi, ktorého pozná Fico aj Bödör (+ video)",
+      "url": "https://dennikn.sk/5182108/kastiele-skupuje-firma-zo-schatranej-chaty-stopy-vedu-k-pellegriniho-kamaratovi-ktoreho-pozna-fico-aj-bodor/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/neural-audio-elevenlabs-5182108-2.mp3",
+      "published": null
+    },
+    {
+      "title": "Svetový newsfilter: Veľké topánky Marca Rubia spustili debatu o lojalite Trumpových ľudí",
+      "url": "https://dennikn.sk/5209556/svetovy-newsfilter-trump-pocitil-ze-rozbijat-spojenectva-sa-neoplati/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/SNF20032026mixdown.mp3",
+      "published": null
+    },
+    {
+      "title": "Partner odmietol spoločné bývanie. Je prirodzené aj po päťdesiatke túžiť po istote?",
+      "url": "https://dennikn.sk/5203823/partner-odmietol-spolocne-byvanie-je-prirodzene-aj-po-patdesiatke-tuzit-po-istote/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/neural-audio-elevenlabs-5203823-1.mp3",
+      "published": null
+    },
+    {
+      "title": "Korupčný newsfilter: Fico sa snaží aj študentom nahovoriť, že majetok nad jeho príjmy je v poriadku",
+      "url": "https://dennikn.sk/5209748/korupcny-newsfilter-fico-sa-snazi-aj-studentom-nahovorit-ze-majetok-nad-jeho-prijmy-je-v-poriadku/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/exportKNF19032026.mp3",
+      "published": null
+    },
+    {
+      "title": "Ráno s NHL: Odíde Matthews z Toronta? Podľa experta sú v situácii ako Vancouver s Hughesom",
+      "url": "https://dennikn.sk/5209708/rano-s-nhl-odide-matthews-z-toronta-podla-experta-su-v-situacii-ako-vancouver-s-hughesom/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/neural-audio-elevenlabs-5209708-2.mp3",
+      "published": null
+    },
+    {
+      "title": "Príbeh zdravotnej pomôcky, ktorá sa nakoniec napriek všetkému dostala k pacientke",
+      "url": "https://dennikn.sk/5210083/pribeh-zdravotnej-pomocky-ktora-sa-nakoniec-napriek-vsetkemu-a-vsetkym-dostala-k-pacientke/",
+      "mp3_url": "https://a-static.projektn.sk/2026/03/neural-audio-elevenlabs-5210083-2.mp3",
+      "published": null
     }
   ]
 }
