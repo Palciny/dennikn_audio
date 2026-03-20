@@ -52,7 +52,7 @@ p {
 .toolbar {
   margin: 20px 0;
   display: grid;
-  grid-template-columns: minmax(0, 1.3fr) minmax(190px, 0.35fr) minmax(220px, 0.5fr);
+  grid-template-columns: minmax(0, 1.3fr) minmax(190px, 0.35fr) minmax(220px, 0.5fr) minmax(140px, 0.25fr);
   gap: 12px;
 }
 
@@ -141,4 +141,20 @@ audio {
   .toolbar {
     grid-template-columns: 1fr;
   }
+}
+
+
+.player-row {
+  display: grid;
+  gap: 8px;
+}
+
+.speed-label {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.speed-value {
+  color: var(--text);
+  font-weight: 600;
 }

@@ -19,9 +19,11 @@ const metaEl = el("meta");
 const searchEl = el("search");
 const dayEl = el("day-filter");
 const categoryEl = el("category-filter");
+const speedEl = el("speed-control");
 const template = el("card-template");
 
 let allArticles = [];
+let playbackRate = Number(localStorage.getItem("preferredPlaybackRate") || "1");
 
 function createOption(value, label) {
   const option = document.createElement("option");
@@ -34,6 +36,20 @@ function fillSelect(selectEl, values, defaultLabel) {
   selectEl.innerHTML = "";
   selectEl.appendChild(createOption("", defaultLabel));
   values.forEach((value) => selectEl.appendChild(createOption(value, value)));
+}
+
+function applyPlaybackRate(audio, labelEl) {
+  audio.playbackRate = playbackRate;
+  if (labelEl) labelEl.textContent = `${playbackRate}×`;
+}
+
+function syncAllPlaybackRates() {
+  document.querySelectorAll(".card").forEach((card) => {
+    const audio = card.querySelector("audio");
+    const label = card.querySelector(".speed-value");
+    if (audio) applyPlaybackRate(audio, label);
+  });
+  if (speedEl) speedEl.value = String(playbackRate);
 }
 
 function render(items) {
@@ -66,6 +82,10 @@ function render(items) {
 
     const audio = node.querySelector("audio");
     audio.src = item.mp3_url;
+    const speedValueEl = node.querySelector(".speed-value");
+    applyPlaybackRate(audio, speedValueEl);
+    audio.addEventListener("loadedmetadata", () => applyPlaybackRate(audio, speedValueEl));
+    audio.addEventListener("play", () => applyPlaybackRate(audio, speedValueEl));
 
     const chipsEl = node.querySelector(".chips");
     (item.categories || []).forEach((category) => {
@@ -129,6 +149,7 @@ async function load() {
     metaEl.dataset.generatedAtText = `Naposledy generované: ${formatDate(payload.generated_at)}`;
     metaEl.textContent = `${metaEl.dataset.generatedAtText} · Zobrazené: ${allArticles.length} z ${allArticles.length}`;
     render(allArticles);
+    syncAllPlaybackRates();
   } catch (error) {
     metaEl.textContent = "Nepodarilo sa načítať index článkov.";
     listEl.innerHTML = `<div class="empty">${error.message}</div>`;
@@ -139,3 +160,16 @@ searchEl.addEventListener("input", applyFilter);
 dayEl.addEventListener("change", applyFilter);
 categoryEl.addEventListener("change", applyFilter);
 load();
+
+
+if (speedEl) {
+  if (!["0.75","1","1.25","1.5","1.75","2"].includes(String(playbackRate))) {
+    playbackRate = 1;
+  }
+  speedEl.value = String(playbackRate);
+  speedEl.addEventListener("change", () => {
+    playbackRate = Number(speedEl.value || "1");
+    localStorage.setItem("preferredPlaybackRate", String(playbackRate));
+    syncAllPlaybackRates();
+  });
+}

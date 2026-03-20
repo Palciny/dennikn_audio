@@ -18,6 +18,14 @@
       <input id="search" type="search" placeholder="Filtrovať podľa názvu článku…" />
       <select id="day-filter" aria-label="Filtrovať podľa dňa publikovania"></select>
       <select id="category-filter" aria-label="Filtrovať podľa kategórie"></select>
+      <select id="speed-control" aria-label="Rýchlosť prehrávania">
+        <option value="0.75">0.75×</option>
+        <option value="1" selected>1×</option>
+        <option value="1.25">1.25×</option>
+        <option value="1.5">1.5×</option>
+        <option value="1.75">1.75×</option>
+        <option value="2">2×</option>
+      </select>
     </section>
 
     <section id="list" class="list"></section>
@@ -32,7 +40,10 @@
         <a class="article-link" target="_blank" rel="noopener noreferrer">Článok</a>
         <a class="mp3-link" target="_blank" rel="noopener noreferrer">MP3</a>
       </div>
-      <audio controls preload="none"></audio>
+      <div class="player-row">
+        <label class="speed-label">Rýchlosť: <span class="speed-value">1×</span></label>
+        <audio controls preload="none"></audio>
+      </div>
     </article>
   </template>
 
