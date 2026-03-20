@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-03-14T00:00:00+00:00",
-  "source": "https://dennikn.sk/rss",
+  "generated_at": "2026-03-20T00:00:00+00:00",
+  "sources": [
+    "https://dennikn.sk/feed",
+    "https://dennikn.sk/slovensko/feed/",
+    "https://dennikn.sk/svet/feed",
+    "https://dennikn.sk/ekonomika/feed",
+    "https://dennikn.sk/rodina-a-vztahy/feed",
+    "https://dennikn.sk/zdravie/feed",
+    "https://dennikn.sk/komentare/feed",
+    "https://dennikn.sk/kultura/feed",
+    "https://dennikn.sk/veda/feed",
+    "https://dennikn.sk/sport/feed"
+  ],
   "count": 1,
+  "categories": [
+    "Vývoj bojov na Ukrajine"
+  ],
+  "published_days": [
+    "2026-03-13"
+  ],
   "articles": [
     {
       "title": "Vývoj bojov (1478. deň): Prečo je na Ukrajine pred ruskou jarnou ofenzívou viac optimizmu ako pred rokom",
       "url": "https://dennikn.sk/5197023/vyvoj-bojov-1478-den-preco-je-na-ukrajine-pred-ruskou-jarnou-ofenzivou-viac-optimizmu-ako-pred-rokom/",
       "mp3_url": "https://a-static.projektn.sk/2026/03/exportVB13032026.mp3",
-      "published": "2026-03-13T00:00:00+00:00"
+      "published": "2026-03-13T00:00:00+00:00",
+      "published_day": "2026-03-13",
+      "categories": [
+        "Vývoj bojov na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed",
+      "first_seen": "2026-03-14T00:00:00+00:00",
+      "last_seen": "2026-03-20T00:00:00+00:00"
     }
   ]
 }

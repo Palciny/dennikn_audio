@@ -10,12 +10,14 @@
   <main class="wrap">
     <header class="hero">
       <h1>Denník N Audio</h1>
-      <p>Jednoduchý statický prehrávač MP3 článkov nájdených automaticky každý deň.</p>
+      <p>Statický prehrávač MP3 článkov, aktualizovaný každý deň zo všetkých článkových RSS feedov Denníka N.</p>
       <div class="meta" id="meta">Načítavam…</div>
     </header>
 
     <section class="toolbar">
       <input id="search" type="search" placeholder="Filtrovať podľa názvu článku…" />
+      <select id="day-filter" aria-label="Filtrovať podľa dňa publikovania"></select>
+      <select id="category-filter" aria-label="Filtrovať podľa kategórie"></select>
     </section>
 
     <section id="list" class="list"></section>
@@ -25,6 +27,7 @@
     <article class="card">
       <h2 class="title"></h2>
       <div class="details"></div>
+      <div class="chips"></div>
       <div class="links">
         <a class="article-link" target="_blank" rel="noopener noreferrer">Článok</a>
         <a class="mp3-link" target="_blank" rel="noopener noreferrer">MP3</a>
