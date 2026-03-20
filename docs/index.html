@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Denník N Audio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <h1>Denník N Audio</h1>
+      <p>Jednoduchý statický prehrávač MP3 článkov nájdených automaticky každý deň.</p>
+      <div class="meta" id="meta">Načítavam…</div>
+    </header>
+
+    <section class="toolbar">
+      <input id="search" type="search" placeholder="Filtrovať podľa názvu článku…" />
+    </section>
+
+    <section id="list" class="list"></section>
+  </main>
+
+  <template id="card-template">
+    <article class="card">
+      <h2 class="title"></h2>
+      <div class="details"></div>
+      <div class="links">
+        <a class="article-link" target="_blank" rel="noopener noreferrer">Článok</a>
+        <a class="mp3-link" target="_blank" rel="noopener noreferrer">MP3</a>
+      </div>
+      <audio controls preload="none"></audio>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
