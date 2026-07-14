@@ -201,6 +201,28 @@ function render(items) {
   }
 }
 
+function computeCategoriesForDay(day) {
+  const source = day
+    ? allArticles.filter((item) => item.published_day === day)
+    : allArticles;
+
+  return Array.from(
+    new Set(source.flatMap((item) => (Array.isArray(item.categories) ? item.categories : [])))
+  ).sort((a, b) => a.localeCompare(b, "sk"));
+}
+
+function updateCategoryOptions() {
+  const selectedDay = dayEl.value;
+  const previousCategory = categoryEl.value;
+  const categories = computeCategoriesForDay(selectedDay);
+
+  fillSelect(categoryEl, categories, "Všetky kategórie");
+
+  if (previousCategory && categories.includes(previousCategory)) {
+    categoryEl.value = previousCategory;
+  }
+}
+
 function applyPayload(payload, isArchive) {
   const previousDay = dayEl.value;
   const previousCategory = categoryEl.value;
@@ -258,6 +280,7 @@ async function applyFilter(resetVisible = true) {
   }
 
   await loadArchiveIfNeeded();
+  updateCategoryOptions();
 
   const q = searchEl.value.trim().toLowerCase();
   const selectedDay = dayEl.value;
