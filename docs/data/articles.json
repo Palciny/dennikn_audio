@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:09:12.937700+00:00",
+  "generated_at": "2026-08-07T16:47:56.696591+00:00",
   "sources": [
     "https://dennikn.sk/feed",
     "https://dennikn.sk/slovensko/feed/",
@@ -12,8 +12,8 @@
     "https://dennikn.sk/sport/feed",
     "https://dennikn.sk/komentare/shooty/feed/"
   ],
-  "count": 3187,
-  "total_count": 3187,
+  "count": 3190,
+  "total_count": 3190,
   "latest_day": "2026-08-07",
   "categories": [
     "1. svetová vojna",
@@ -608,9 +608,70 @@
   ],
   "articles": [
     {
+      "title": "Úmysel, bezbrannosť obete či ignorovanie nesúhlasu. Päť odborníkov vysvetľuje, ako rozpoznať pokus o znásilnenie",
+      "url": "https://dennikn.sk/5493768/umysel-bezbrannost-obete-ci-ignorovanie-nesuhlasu-pat-odbornikov-vysvetluje-ako-rozpoznat-pokus-o-znasilnenie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5493768-1.mp3",
+      "published": "2026-08-07T16:19:24+00:00",
+      "published_day": "2026-08-07",
+      "categories": [
+        "Hlavná",
+        "Rodina a vzťahy",
+        "Slovensko",
+        "Duševné zdravie",
+        "Mladí",
+        "Sexuálne násilie",
+        "Vzťahy",
+        "Životy mužov",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed",
+      "first_seen": "2026-08-07T16:47:30.928996+00:00",
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
+    },
+    {
+      "title": "Oslo je ako Bratislava pred desiatimi rokmi. Nórov učím, že káva je zábava, vraví slovenská majiteľka metalovej kaviarne",
+      "url": "https://dennikn.sk/5483814/oslo-je-ako-bratislava-pred-desiatimi-rokmi-norov-ucim-ze-kava-je-zabava-vravi-slovenska-majitelka-metalovej-kaviarne/",
+      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5483814-1.mp3",
+      "published": "2026-08-07T15:43:47+00:00",
+      "published_day": "2026-08-07",
+      "categories": [
+        "Rodina a vzťahy",
+        "Slovensko",
+        "Svet",
+        "Bratislava",
+        "Cestovný ruch",
+        "Firmy",
+        "Gastro a jedlo",
+        "Hudba",
+        "Mladí",
+        "Rozhovory",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed",
+      "first_seen": "2026-08-07T16:47:30.928996+00:00",
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
+    },
+    {
+      "title": "MediaBrífing: Základy fungovania internetu sa menia, niektoré médiá to nemusia prežiť",
+      "url": "https://dennikn.sk/5495639/mediabrifing-zaklady-fungovania-internetu-sa-menia-niektore-media-to-nemusia-prezit/",
+      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5495639-1.mp3",
+      "published": "2026-08-07T14:29:36+00:00",
+      "published_day": "2026-08-07",
+      "categories": [
+        "Komentáre",
+        "Slovensko",
+        "AI",
+        "Médiá",
+        "MediaBrífing"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed",
+      "first_seen": "2026-08-07T16:47:30.928996+00:00",
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
+    },
+    {
       "title": "V Diakovciach sa priotrávilo 16 ľudí vrátane detí. Polícia začala trestné stíhanie",
       "url": "https://dennikn.sk/5495543/v-diakovciach-sa-priotravilo-16-ludi-vratane-deti-policia-zacala-trestne-stihanie/",
-      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5495543-1.mp3",
+      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5495543-2.mp3",
       "published": "2026-08-07T13:21:13+00:00",
       "published_day": "2026-08-07",
       "categories": [
@@ -618,12 +679,12 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-08-07T14:08:48.392983+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Spis ukazuje, že manžel Zuzany z Gelnice útočil už skôr, usvedčili ho aj slová ich syna",
       "url": "https://dennikn.sk/5495541/spis-ukazuje-ze-manzel-zuzany-z-gelnice-utocil-uz-skor-usvedcili-ho-aj-slova-ich-syna/",
-      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5495541-1.mp3",
+      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5495541-3-1.mp3",
       "published": "2026-08-07T13:20:33+00:00",
       "published_day": "2026-08-07",
       "categories": [
@@ -634,7 +695,7 @@
       ],
       "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed",
       "first_seen": "2026-08-07T14:08:48.392983+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Obraz spokojného starého mládenca a nešťastnej starej dievky sa rozpadá (Víkend bez politiky)",
@@ -655,7 +716,7 @@
       ],
       "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed",
       "first_seen": "2026-08-07T14:08:48.392983+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Vývoj bojov (1625. deň): Ďalší rekordný útok Ukrajiny. Ruskému Amazonu môže hroziť bankrot, ak ho Kremeľ nezachráni",
@@ -672,7 +733,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed",
       "first_seen": "2026-08-07T14:08:48.392983+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Máme pocit, že musíme zvládnuť všetko, to sa pritom nedá, hovorí psychológ a radí, ako sa pripraviť na krízy",
@@ -688,12 +749,12 @@
       ],
       "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed",
       "first_seen": "2026-08-07T14:08:48.392983+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
-      "title": "Riaditeľ VšZP Jurových: S Haščákom si tykám, so šéfom Agelu som bol na dovolenke, ale už sa nestretávame",
+      "title": "Riaditeľ VšZP Jurových: Robil som pre Pentu, tak si s Haščákom tykám. So šéfom Agelu som bol na dovolenke, ale už sa nestretávame",
       "url": "https://dennikn.sk/5494766/riaditel-vszp-jurovych-s-hascakom-si-tykam-so-sefom-agelu-som-bol-na-dovolenke-ale-uz-sa-nestretavame/",
-      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5494766-1.mp3",
+      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5494766-2.mp3",
       "published": "2026-08-07T10:54:19+00:00",
       "published_day": "2026-08-07",
       "categories": [
@@ -703,7 +764,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-08-07T14:08:48.392983+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Smerom skaza, Hlasom spúšť! Optimizmus postagrárneho Slovenska",
@@ -719,7 +780,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Týždeň v práve Rada Procházku: Bombic na káve, Žilinka pred závorami, Pellegrini tasí nový kolt",
@@ -733,7 +794,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Dva pohľady na nešťastie v Lockerbie, prekvapivý James Bond a komik, ktorý to nikdy nevzdal (tipy, čo pozerať)",
@@ -749,7 +810,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Ako by mohol vyzerať útok na Pobaltie? Rozhodujúca časť operácie môže prísť až potom, varuje expert",
@@ -766,7 +827,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Ak ste single po štyridsiatke, nehovorí to nič o tom, akým ste človekom, vraví Kristína Růžičková",
@@ -787,7 +848,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Ďalšia kniha o odchode a trúchlení? Prečo Hochholczerovej novinka vyčnieva",
@@ -802,7 +863,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Antipopová, no aj tak chytľavá. Charli xcx na novom albume odkladá slávu a rozjíma o pominuteľnosti",
@@ -820,7 +881,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Trumpov svet (564. deň): USA vo vojne s Iránom minuli takmer všetky svoje presne navádzané rakety, Trump žiada vysvetlenie",
@@ -836,7 +897,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Svetový newsfilter: Objavujú sa náznaky, že Západ sa pokúša rokovať s Putinovým Ruskom",
@@ -854,7 +915,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Prečo Republika stále rastie a prečo je zrazu stranou sklamaných mužov v strednom veku",
@@ -887,7 +948,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Rozhodlo pár nepokojných minút. Hádzanárky po prehre plakali, no tréner vidí ďalšiu šancu na medailu",
@@ -901,7 +962,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Ján Čurilla píše: Takáčovci môžu aj desaťkrát povedať, že sme ich nevydierali, aj tak sme obvinení",
@@ -915,7 +976,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Koubský: Ak človek osem hodín denne sedí pri počítači, jeho práca je v ohrození",
@@ -948,7 +1009,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Migaľovi sa darí oslovovať voličov platenými reklamami na Facebooku, hoci ich Meta u nás nepovoľuje",
@@ -978,7 +1039,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Maďari skladajú energetickú skúšku na výbornú a novinári ukázali, ako hovorca Fideszu diktoval správy (86. deň vlády Tiszy)",
@@ -993,7 +1054,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed",
       "first_seen": "2026-08-06T15:13:56.702165+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Nové kamery Šutaja Eštoka sú od cyperskej schránky bez histórie a jediná stopa vedie k Rusku",
@@ -1024,7 +1085,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-08-06T15:13:56.702165+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Kultúra startupov či šikana? Francúzsko čelí nárastu samovrážd na úradoch premiéra",
@@ -1055,7 +1116,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed",
       "first_seen": "2026-08-07T09:55:50.372486+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Chcete vidieť klimatickú krízu? Choďte do Maďarska k brehom vyschnutého Dunaja (reportáž)",
@@ -1085,7 +1146,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-06T11:15:48.055159+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Kandidát na košického župana Porvažník: Štvrť milióna na kampaň by nemuselo stačiť, Trnka zneužíva krajský rozpočet",
@@ -1149,7 +1210,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-06T11:15:48.055159+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Mám veľmi ľahký spánok a budím sa na takmer každý zvuk. Čo si všímať pri výbere nového bývania?",
@@ -1187,7 +1248,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-06T11:15:48.055159+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Pragmatik Baška v trenčianskej župe šliape za víťazstvom, opozícia zatiaľ zaostáva (reportáž)",
@@ -1223,7 +1284,7 @@
       ],
       "feed_url": "https://dennikn.sk/zdravie/feed",
       "first_seen": "2026-08-06T11:15:48.055159+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Američania majú menej ako sto dní na záchranu svojej demokracie",
@@ -1236,7 +1297,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed",
       "first_seen": "2026-08-06T11:15:48.055159+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Newsfilter: Dívajte sa, ako Fico s Kaliňákom rozpredávajú Slovensko a Pellegrini im pri tom asistuje",
@@ -1325,7 +1386,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-05T17:24:11.275394+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Aplikácie na zoznamovanie vytvárajú absurdne vysoké nároky na partnerov, vraví psychológ",
@@ -1344,7 +1405,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-08-05T15:10:27.519130+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Vývoj bojov (1623. deň): Ukrajina v noci nezostrelila ani jednu strelu Iskander. Riešenie môže mať v rukách Musk",
@@ -1576,7 +1637,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-05T11:16:07.836625+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Strčili mi hlavu do vody so železnou guľou okolo krku. Ukrajinec opisuje 802 dní mučenia v ruskom zajatí",
@@ -1629,7 +1690,7 @@
     {
       "title": "Markíza natočila a odvysielala reality šou, kde sa účastník pokúšal o znásilnenie opitej ženy. Štáb muža pri natáčaní nezastavil",
       "url": "https://dennikn.sk/5474938/markiza-natocila-a-odvysielala-reality-sou-kde-sa-ucastnik-pokusal-o-znasilnenie-opitej-zeny-stab-muza-pri-natacani-nezastavil/",
-      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5474938-3.mp3",
+      "mp3_url": "https://a-static.projektn.sk/2026/08/neural-audio-elevenlabs-5474938-4.mp3",
       "published": "2026-08-04T16:59:38+00:00",
       "published_day": "2026-08-04",
       "categories": [
@@ -1647,7 +1708,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-04T17:39:53.953055+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Francúzština na školách prehráva už aj so španielčinou. Hľadali sme príčiny",
@@ -1727,7 +1788,7 @@
       ],
       "feed_url": "https://dennikn.sk/zdravie/feed",
       "first_seen": "2026-08-04T15:21:21.971216+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Sme chlapi, rotariáni a manažéri, musíte stáť za mnou. Riaditeľ FPU na nahrávke hovorí, že Machalovi nosil podklady na USB kľúči",
@@ -1743,7 +1804,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-04T15:21:21.971216+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Členské štáty pribrzdili v kritike Španielska. Migračná kríza v Ceute však rozdelila EÚ",
@@ -1805,7 +1866,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-04T11:19:08.130591+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Ahoj, Dunaj, alebo veľké výzvy",
@@ -1931,7 +1992,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-04T11:19:08.130591+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Lovec predátorov o sexsprávach od exposlanca OĽaNO: Vedeli sme, že je politik, preto sme ho preverili cez tri profily",
@@ -1995,7 +2056,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-03T17:46:04.578609+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Slovensko má najhoršiu tajnú službu v Európe, Pavol Gašpar je špión v šľapkách, píše francúzsky časopis",
@@ -2116,7 +2177,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-08-03T15:39:28.215037+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Pletenie bičov ako nová národná tvorba",
@@ -2257,7 +2318,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed",
       "first_seen": "2026-08-02T16:53:25.877108+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Riaditeľ vedel o všetkom, čo si hovoríme. Odchádzajúca referentka opisuje pomery a šikanu v FPU",
@@ -2273,7 +2334,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed",
       "first_seen": "2026-08-02T14:25:32.255598+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Uhrík, Šutaj Eštok aj ďalší politici skresľujú príčiny migračnej vlny v Ceute. Kde sa ich príbeh rozchádza s faktami?",
@@ -2367,7 +2428,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-08-01T14:23:49.739727+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Potrebuje niekto slovenčinu v 21. storočí?",
@@ -2496,7 +2557,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-07-31T17:24:16.151878+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "V Španielsku zhorela plocha veľká ako šesť Bratisláv, v celej EÚ väčšia než celý Trnavský kraj",
@@ -2513,7 +2574,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-07-31T17:24:16.151878+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Bývalý riaditeľ NAKA Daňko: Máme informácie, kde Šutaj Eštok v Dubaji býval a kto mu to zaplatil",
@@ -2549,7 +2610,7 @@
       ],
       "feed_url": "https://dennikn.sk/zdravie/feed",
       "first_seen": "2026-07-31T15:14:46.102737+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Mark Galeotti: Sú ľudia, ktorí môžu Putina presvedčiť, aby skončil vojnu na Ukrajine",
@@ -2655,7 +2716,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-07-31T15:14:46.102737+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Na dne oceánu našli vrak lietadla, ktoré sa zrútilo v roku 1952. Ako nehoda zmenila letectvo?",
@@ -2671,7 +2732,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-07-31T15:14:46.102737+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Ted Lasso bol vyčerpaný a mal skončiť. Prečo sa vracia a trénuje ženy? (tipy, čo pozerať)",
@@ -2981,7 +3042,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-07-30T15:06:28.191713+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Urobili si ho na svoj obraz. Ako deti z Luníka IX za týždeň zmenili miesto, kde trávia voľný čas",
@@ -3366,7 +3427,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed",
       "first_seen": "2026-07-29T17:09:37.398503+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Miloval hudbu, bol v nej šokujúco úprimný a otvorený. Ako Glen Hansard našiel vlastný hlas",
@@ -3398,7 +3459,7 @@
       ],
       "feed_url": "https://dennikn.sk/zdravie/feed",
       "first_seen": "2026-07-29T15:29:57.649886+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Z PiS odchádza bývalý premiér Morawiecki, Kaczyński chce rozdelenie strany zastaviť",
@@ -3562,7 +3623,7 @@
       ],
       "feed_url": "https://dennikn.sk/zdravie/feed",
       "first_seen": "2026-07-29T11:20:17.368731+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Marketér Minár: Politika sa zmenila na súboj dobra so zlom. A je to víťazná stratégia",
@@ -4452,7 +4513,7 @@
       ],
       "feed_url": "https://dennikn.sk/zdravie/feed",
       "first_seen": "2026-07-25T10:23:11.099622+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Každému ten jeho antisemitizmus",
@@ -5296,7 +5357,7 @@
       ],
       "feed_url": "https://dennikn.sk/zdravie/feed",
       "first_seen": "2026-07-23T11:05:13.121517+00:00",
-      "last_seen": "2026-08-07T14:08:48.392983+00:00"
+      "last_seen": "2026-08-07T16:47:30.928996+00:00"
     },
     {
       "title": "Od Hlasu odchádzajú už aj k Republike, koalícia prišla o takmer pol milióna voličov (analýza + grafy)",
