@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-09-08T19:12:09.247827+00:00",
+  "generated_at": "2026-09-09T13:19:41.911257+00:00",
   "sources": [
-    "https://dennikn.sk/slovensko/feed/"
+    "https://dennikn.sk/feed/",
+    "https://dennikn.sk/slovensko/feed/",
+    "https://dennikn.sk/svet/feed/",
+    "https://dennikn.sk/rodina-a-vztahy/feed/",
+    "https://dennikn.sk/zdravie/feed/",
+    "https://dennikn.sk/komentare/feed/",
+    "https://dennikn.sk/kultura/feed/",
+    "https://dennikn.sk/veda/feed/",
+    "https://dennikn.sk/sport/feed/",
+    "https://dennikn.sk/komentare/shooty/feed/",
+    "https://dennikn.sk/feed",
+    "https://dennikn.sk/svet/feed",
+    "https://dennikn.sk/rodina-a-vztahy/feed",
+    "https://dennikn.sk/zdravie/feed",
+    "https://dennikn.sk/komentare/feed",
+    "https://dennikn.sk/kultura/feed",
+    "https://dennikn.sk/veda/feed",
+    "https://dennikn.sk/sport/feed"
   ],
   "count": 3389,
   "total_count": 3389,
